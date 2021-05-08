@@ -1,0 +1,1 @@
+OK, I'm the new file in repository B.
